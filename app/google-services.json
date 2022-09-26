@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844543185788",
+    "project_id": "gd6-d-0860-e74a5",
+    "storage_bucket": "gd6-d-0860-e74a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844543185788:android:9e00a682b0ae345bf80af9",
+        "android_client_info": {
+          "package_name": "com.owen.gd6_d_0860"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844543185788-qi56d7cip66tmmd2rdrc0nu0l4389j8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9XABgRGgy3iUiN_swoh_VllL3MachbIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844543185788-qi56d7cip66tmmd2rdrc0nu0l4389j8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
